@@ -324,7 +324,7 @@ $
 
 - GitHub: [@NUCCASJNR](https://github.com/NUCCASJNR)
 - Twitter: [@Al_ar_eef](https://twitter.com/Al_ar_eef)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/adegbite-al-areef)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/adegbite-al-areef-2bob8723a)
 
 👤 **ABDUL-HAMEED**
 

@@ -330,3 +330,5 @@ $
 👤 **ABDUL-HAMEED**
 
 - GitHub: [@Harmcleff](https://github.com/Harmcleff)
+ Twitter: [@Harmcleff](https://twitter.com/harmcleff)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sanyaolu-hammed-b1996a105/)

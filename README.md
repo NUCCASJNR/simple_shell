@@ -320,15 +320,16 @@ $
 
 ## Authors ##
 
-👤 **ALAREEF**
+👤 **OBED EHONEAH**
 
-- GitHub: [@NUCCASJNR](https://github.com/NUCCASJNR)
-- Twitter: [@Al_ar_eef](https://twitter.com/Al_ar_eef)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/adegbite-al-areef-2b0b8723a)
-- facebook: [facebook](https://www.facebook.com/profile.php?id=100088347365140)
+- GitHub: [@ehoneahobed](https://github.com/ehoneahobed)
+- Twitter: [@ehoneahobed](https://twitter.com/ehoneahobed)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ehoneahobed)
+- Blog: [Personal Blog](https://blog.ehoneahobed.com)
 
-👤 **SANYAOLU HAMMED**
+👤 **JUSTICE MENSAH BLAY MEWUBE**
 
-- GitHub: [@Harmcleff](https://github.com/Harmcleff)
-- Twitter: [@Harmcleff](https://twitter.com/harmcleff)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sanyaolu-hammed-b1996a105/)
+- GitHub: [@JUSTICEMENSAH-ALX](https://github.com/JUSTICEMENSAH-ALX)
+- LinkedIn: [LinkedIn](linkedin.com/in/mensah-blay-justice)
+- Twitter: [@JUSTICEMBLAY](https://twitter.com/justicemensahblaymewube)
+
